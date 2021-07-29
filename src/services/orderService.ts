@@ -28,3 +28,5 @@ export async function getWithCostumer() {
 
     return orders
 }
+
+//psql -h ec2-3-213-146-52.compute-1.amazonaws.com -p 5432 -U cgaunqzrylqara dc87ll3i8tvs8g
